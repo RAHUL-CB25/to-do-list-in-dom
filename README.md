@@ -38,4 +38,4 @@ npm install
 npm run dev
 ```
 ## Live Demo
-[View Live Demo](https://to-do-list-in-dom.vercel.app/)
+(https://to-do-list-in-dom.vercel.app/)
